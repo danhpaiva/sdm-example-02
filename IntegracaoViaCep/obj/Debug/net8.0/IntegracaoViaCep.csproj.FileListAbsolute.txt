@@ -1,0 +1,14 @@
+C:\Users\root\Documents\aula_una\IntegracaoViaCep\bin\Debug\net8.0\IntegracaoViaCep.exe
+C:\Users\root\Documents\aula_una\IntegracaoViaCep\bin\Debug\net8.0\IntegracaoViaCep.deps.json
+C:\Users\root\Documents\aula_una\IntegracaoViaCep\bin\Debug\net8.0\IntegracaoViaCep.runtimeconfig.json
+C:\Users\root\Documents\aula_una\IntegracaoViaCep\bin\Debug\net8.0\IntegracaoViaCep.dll
+C:\Users\root\Documents\aula_una\IntegracaoViaCep\bin\Debug\net8.0\IntegracaoViaCep.pdb
+C:\Users\root\Documents\aula_una\IntegracaoViaCep\obj\Debug\net8.0\IntegracaoViaCep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\Documents\aula_una\IntegracaoViaCep\obj\Debug\net8.0\IntegracaoViaCep.AssemblyInfoInputs.cache
+C:\Users\root\Documents\aula_una\IntegracaoViaCep\obj\Debug\net8.0\IntegracaoViaCep.AssemblyInfo.cs
+C:\Users\root\Documents\aula_una\IntegracaoViaCep\obj\Debug\net8.0\IntegracaoViaCep.csproj.CoreCompileInputs.cache
+C:\Users\root\Documents\aula_una\IntegracaoViaCep\obj\Debug\net8.0\IntegracaoViaCep.dll
+C:\Users\root\Documents\aula_una\IntegracaoViaCep\obj\Debug\net8.0\refint\IntegracaoViaCep.dll
+C:\Users\root\Documents\aula_una\IntegracaoViaCep\obj\Debug\net8.0\IntegracaoViaCep.pdb
+C:\Users\root\Documents\aula_una\IntegracaoViaCep\obj\Debug\net8.0\IntegracaoViaCep.genruntimeconfig.cache
+C:\Users\root\Documents\aula_una\IntegracaoViaCep\obj\Debug\net8.0\ref\IntegracaoViaCep.dll
